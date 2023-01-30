@@ -2327,7 +2327,7 @@
     "summary.applications": "应用程序",
     "summary.applications.launch": "进入应用程序",
     "summary.cluster.issues": "确定的问题",
-    "summary.cluster.issues.description.count": "{{criticalCount}} 关键、{{importantCount}} 重要、{{moderateCount}} 中、{{lowCount}} 低",
+    "summary.cluster.issues.description.count": "{{criticalCount}} 关键、{{importantCount}} 重要、{{moderateCount}} 中、{{lowCount}} 低 ",
     "summary.cluster.no.issues": "未找到潜在问题",
     "summary.clusterPools.launch": "进入集群池",
     "summary.clusters.launch": "进入受管集群",
